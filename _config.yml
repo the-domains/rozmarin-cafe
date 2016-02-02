@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#A0C8B0'
+    - '#282008'
+    - '#A09058'
+    - '#988040'
+    - '#D0C088'
+  brandStrength: 0.383118
+  lightness: 0.728482
+  rhythmicContrast: 0.050823
+  saturation: 0.856624
+cta: {}
+layout_spectrum: 0.40767
+name: Rozmarin Cafe
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.605113
