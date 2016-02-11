@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Rozmarin Cafe]]></title>
         <description><![CDATA[Rozmarin Cafe]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/rozmarin-cafe/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Feb 2016 10:38:19 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 11 Feb 2016 15:45:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rozmarin-cafe/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>this is a sample text</p>]]></description>
-            <link>undefined6cb83d57-b993-495b-8081-37c5a7d5f1d8/index.html</link>
+            <description><![CDATA[<p>Our Cafe is an experiment to make people like to experiment with food. This is a place for open minded and fearless ones</p>]]></description>
+            <link>https://thegrid.ai/rozmarin-cafe/6cb83d57-b993-495b-8081-37c5a7d5f1d8/index.html</link>
             <guid isPermaLink="false">6cb83d57-b993-495b-8081-37c5a7d5f1d8</guid>
-            <pubDate>Tue, 09 Feb 2016 10:38:12 GMT</pubDate>
+            <pubDate>Thu, 11 Feb 2016 15:45:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
