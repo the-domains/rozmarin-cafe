@@ -1,4 +1,19 @@
-analytics: {}
+name: Rozmarin Cafe
+favicon: null
+layout_spectrum: 0.99778
+typography_spectrum: 0.605113
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#A0C8B0'
@@ -8,11 +23,9 @@ color:
     - '#D0C088'
   brandStrength: 0.383118
   lightness: 0.728482
-  rhythmicContrast: 0.050823
   saturation: 0.856624
-cta: {}
-layout_spectrum: 0.40767
-name: Rozmarin Cafe
-opengraph: {}
-purpose: {}
-typography_spectrum: 0.605113
+  rhythmicContrast: 0.050823
+purpose:
+  - name: null
+    item: null
+    url: null
